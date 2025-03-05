@@ -1,7 +1,7 @@
 ### **Beer Pong Permissions Game – A Symbolic Transaction-Based Access Control System**  
 
 #### **📌 Overview**  
-The **Beer Pong Permissions Game** is an event-driven system where symbolic **payment transactions** (ball throws) are used to determine access control in a game-like environment. Instead of traditional role-based access systems (e.g., Permit.io), this system **gamifies authentication and validation** using a fake payment flow. Each transaction (throw) must be **authenticated, validated, and encrypted**, making it a **lightweight but extensible model** that could be adapted for real financial transactions in the future.  
+The **Beer Pong Permissions Game** is an event-driven system where symbolic **payment transactions** (ball throws) are used to determine access control in a game-like environment. Instead of traditional role-based access systems, the system **gamifies authentication and validation** using a fake payment flow. Each transaction (throw) must be **authenticated, validated, and encrypted**, making it a **lightweight but extensible model**.  
 
 The game follows the principles of **event-driven architecture**, real-time state validation, and challenge-based dispute resolution. Players interact in a **real-time UI**, where transactions visually "hop" from one cup to another, reflecting the **validation process** live.  
 
