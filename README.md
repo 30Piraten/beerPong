@@ -8,7 +8,7 @@ The game follows the principles of **event-driven architecture**, real-time stat
 ---
 
 #### **🎯 Core Objectives**  
-✅ **Symbolic Payment Flow:** Replace Permit.io-style access control with gamified, lightweight transaction validation.  
+✅ **Symbolic Payment Flow:** Access control with gamified, lightweight transaction validation.  
 ✅ **Event-Driven Architecture:** Ensure **high scalability and performance** using Kafka, Redis, and WebSockets.  
 ✅ **Real-Time Transaction Feedback:** Provide instant visibility into **successful throws, failed validations, and challenges**.  
 ✅ **Tamper-Resistant Validation:** Every throw (transaction) is timestamped, signed, and **immutable** once validated.  
